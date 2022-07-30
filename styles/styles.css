@@ -178,27 +178,27 @@ p {
 }
 
 .project-riseup {
-  background-image: url(/img/project-riseup.jpeg);
+  background-image: url("../img/project-riseup.jpeg");
 }
 
 .project-developers {
-  background-image: url(/img/project-developers.jpeg);
+  background-image: url("../img/project-developers.jpeg");
 }
 
 .project-bluecore {
-  background-image: url(/img/project-bluecore.jpeg);
+  background-image: url("../img/project-bluecore.jpeg");
 }
 
 .project-infinity {
-  background-image: url(/img/project-infinity.jpeg);
+  background-image: url("../img/project-infinity.jpeg");
 }
 
 .project-ballebot {
-  background-image: url(/img/project-ballebot.jpeg);
+  background-image: url("../img/project-ballebot.jpeg");
 }
 
 .project-pokedex {
-  background-image: url(/img/project-pokedex.jpeg);
+  background-image: url("../img/project-pokedex.jpeg");
 }
 
 /* ================= About ================= */
@@ -226,7 +226,7 @@ p {
 }
 
 .about-img {
-  background-image: url(/img/technologies.png);
+  background-image: url("../img/technologies.png");
   background-position: center;
   background-repeat: no-repeat;
   width: 50%;
