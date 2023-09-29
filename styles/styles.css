@@ -73,6 +73,11 @@ p {
   cursor: pointer;
 }
 
+.android{
+  color: #0ffdd8;
+  font-size: 1.5rem;
+}
+
 /* ================= Showcase ================= */
 
 #showcase {
